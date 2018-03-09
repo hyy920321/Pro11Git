@@ -9,5 +9,10 @@ public interface DemoInterface {
 	String getMessageRemote3(String param);
 	
 	
+	
+	
+	
+	void game();
+	
 
 }
