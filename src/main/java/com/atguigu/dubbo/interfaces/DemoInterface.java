@@ -5,6 +5,7 @@ public interface DemoInterface {
 	String getMessageRemote(String param);
 	String getMessageRemote1(String param);
 	String getMessageRemote2(String param);
+	String getMessageRemote3(String param);
 	
 	
 
